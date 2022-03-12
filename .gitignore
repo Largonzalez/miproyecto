@@ -1,0 +1,17 @@
+#Si busco en google proyectos gitignore  
+# para django aparecen 
+# proyecto predefinidso para django
+#para crear esta carpeta hago un nuevo file y le pong ".gitignore"
+
+venv
+db.sqlite3
+__pycache__
+
+# cuando pongo "py manage.py migrate"
+#  me agrega la configuración 
+# minimos par django base de datos
+
+# py manage.py es lo que me va a dejar 
+# controlar todo el proyecto. Esto hay que cortar el bucle con ctrl C
+
+
